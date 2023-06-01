@@ -1,0 +1,18 @@
+.sexy#sexy_137 {
+    
+    color: #333333;
+}
+
+    .sexy#sexy_137 .glasses {
+        background-color: rgba(191, 191, 191, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_137 .glasses,
+        html.ie7 .sexy#sexy_137 .glasses,
+        html.ie8 .sexy#sexy_137 .glasses {
+            background-color: #bfbfbf;
+        }
+
+    .sexy#sexy_137 .row.inner {
+        background-color: #ffffff;
+    }
